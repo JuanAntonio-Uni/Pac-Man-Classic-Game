@@ -15,4 +15,3 @@ void gamebody();
 int main(){
     void menu();
 }
-//xddd
